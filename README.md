@@ -3,8 +3,8 @@
 - quick start
 
 ``` bash
-git clone https://github.com/wangdahoo/vonic-webpack-starter.git
-cd vonic-webpack-starter
+git clone https://github.com/jiulingSir/broadcast.git
+cd broadcast
 npm install -g yarn
 yarn
 ```
